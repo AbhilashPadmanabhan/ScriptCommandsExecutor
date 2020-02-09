@@ -1,7 +1,0 @@
-1. Open “Safari” browser
-2. Enter “URL” as “www.facebook.com”
-3. Click on the “Email or Phone” field
-4. Enter “kick.buttowski@yopmail.com” in “Email or Phone” field
-5. Click on the “Password” field
-6. Enter “r@ndomPass” in “Password” field
-7. Click on “Log In” button
